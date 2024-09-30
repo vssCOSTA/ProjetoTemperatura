@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xtB0mzODHA3yjf6dTSsahQMXQPCZMMBquxww7wzIZI5gTZhsRue1qpIn1g2ibq+i+7dJv2Rl84Xp6pqEY3Zpiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinicius.costa8\\source\\repos\\BlazorAppSenac\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius.costa8\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppSenac", "BlazorAppSenac\BlazorAppSenac.csproj", "{3AD9BA80-1F0F-493E-89A2-FA6FEE99027D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{BC6F38D2-9FBF-4DB7-989F-AB28E83D306A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD9BA80-1F0F-493E-89A2-FA6FEE99027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD9BA80-1F0F-493E-89A2-FA6FEE99027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD9BA80-1F0F-493E-89A2-FA6FEE99027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD9BA80-1F0F-493E-89A2-FA6FEE99027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6F38D2-9FBF-4DB7-989F-AB28E83D306A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6F38D2-9FBF-4DB7-989F-AB28E83D306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6F38D2-9FBF-4DB7-989F-AB28E83D306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6F38D2-9FBF-4DB7-989F-AB28E83D306A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FBC1AD1-70BD-448D-A1F7-AE303BC2FE90}
+	EndGlobalSection
+EndGlobal

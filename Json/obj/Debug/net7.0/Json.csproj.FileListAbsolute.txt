@@ -1,0 +1,17 @@
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.csproj.AssemblyReference.cache
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.AssemblyInfoInputs.cache
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.AssemblyInfo.cs
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\Json.exe
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\Json.deps.json
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\Json.runtimeconfig.json
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\Json.dll
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\Json.pdb
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.csproj.CopyComplete
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.dll
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\refint\Json.dll
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.pdb
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\Json.genruntimeconfig.cache
+C:\Users\vinicius.costa8\source\repos\BlazorAppSenac\Json\obj\Debug\net7.0\ref\Json.dll
